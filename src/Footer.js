@@ -5,7 +5,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer>
-      <p>© 2021 Lemoncode | Made by V.Slechta</p>
+      <p>© 2023 Lemoncode | Made by V.Slechta</p>
     </footer>
   );
 }
